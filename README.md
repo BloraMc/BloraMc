@@ -50,8 +50,6 @@ My projects are mainly for fun, but if they help you out, you're welcome to use 
 
 ---
 
-☁️ _I may use AI tools like GitHub Copilot to review my code — especially when working with libraries or tools I’m still learning._
-
 
 ## 🤝 Friends and Useful Repos
 
