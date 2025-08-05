@@ -40,7 +40,6 @@ My projects are mainly for fun, but if they help you out, you're welcome to use 
 ## 📊 GitHub Stats
 
 ![BloraMc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BloraMc&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BloraMc&layout=compact&theme=tokyonight)
 
 ---
 
