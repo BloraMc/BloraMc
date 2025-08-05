@@ -53,5 +53,4 @@ My projects are mainly for fun, but if they help you out, you're welcome to use 
 
 ## 🤝 Friends and Useful Repos
 
-- [glownydev](https://github.com/glownydev) – French developer, collaborator on some projects  
 - [Forge](https://github.com/MinecraftForge/MinecraftForge) – Official Minecraft Forge Modloader, essential for all my modding
