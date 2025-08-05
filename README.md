@@ -1,5 +1,7 @@
 # 👋 Hello, I'm BloraMc 🇫🇷
 
+Check out my Personnal Website at [lystech.org](https://lystech.org/)
+
 I'm an individual, non-professional developer currently working solo — not part of any team (yet?).
 My projects are mainly for fun, but if they help you out, you're welcome to use the code, just make sure to give proper credit.
 
