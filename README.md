@@ -6,7 +6,7 @@ I'm an individual, non-professional developer currently working solo — not par
 My projects are mainly for fun, but if they help you out, you're welcome to use the code, just make sure to give proper credit.
 
 🌐 My Best Projects : 
-- [**PyProxy**](https://files.minecraftforge.net/) – Lightweight Python self-hosted messaging app.
+- [**PyProxy**](https://github.com/BloraMc/PyProxy) – Lightweight Python self-hosted messaging app.
 
 🎮 I mostly build:
 - **Python console applications**
