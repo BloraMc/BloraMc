@@ -7,6 +7,7 @@ My projects are mainly for fun, but if they help you out, you're welcome to use 
 
 🌐 My Best Projects : 
 - [**PyProxy**](https://github.com/BloraMc/PyProxy) – Lightweight Python self-hosted messaging app.
+- [**LeFileEncrypter**](https://github.com/BloraMc/LeFileEncryptor) - Lightweight CLI app for encrypting/decrypting data
 
 🎮 I mostly build:
 - **Python console applications**
